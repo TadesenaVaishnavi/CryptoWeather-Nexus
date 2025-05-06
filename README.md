@@ -64,6 +64,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 <img width="1279" alt="Screenshot 2025-04-01 at 8 22 50 PM" src="https://github.com/user-attachments/assets/9f705883-193d-4df0-bfdc-38a06df54fa0" />
 
+
+<img width="1277" alt="Screenshot 2025-04-01 at 8 22 58 PM" src="https://github.com/user-attachments/assets/c6c4ae14-b5bc-4613-a2f0-22d0c975512c" />
+
 ## Technologies Used
 
 Technologies Used
@@ -84,6 +87,5 @@ Found a bug, have a feature request, or want to contribute enhancements? Open a 
 
 
 
-<img width="1277" alt="Screenshot 2025-04-01 at 8 22 58 PM" src="https://github.com/user-attachments/assets/c6c4ae14-b5bc-4613-a2f0-22d0c975512c" />
 
 
