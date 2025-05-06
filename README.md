@@ -34,7 +34,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 <img width="1273" alt="Screenshot 2025-04-01 at 8 21 57 PM" src="https://github.com/user-attachments/assets/bb14a501-8cac-4ea9-bf2a-e1aed5c6715a" />
 
 <img width="1279" alt="Screenshot 2025-04-01 at 8 22 50 PM" src="https://github.com/user-attachments/assets/71933dc3-8b26-4ab5-a109-62bf9cb0d155" />
-f656c4652da8" />
+
 
 
 <img width="1279" alt="Screenshot 2025-04-01 at 8 22 50 PM" src="https://github.com/user-attachments/assets/9f705883-193d-4df0-bfdc-38a06df54fa0" />
