@@ -21,6 +21,12 @@ Access current weather conditions, hourly updates, and multi-day forecasts using
 ⚡ Real-Time Notifications
 Stay updated with live push notifications on critical market movements or severe weather alerts.
 
+📊 Redux State Management
+Ensures smooth data flow and consistent state across the application for better performance and scalability.
+
+🧭 Interactive UI
+Built with Tailwind CSS to offer a clean, modern, and highly responsive user experience.
+
 First, run the development server:
 
 ```bash
