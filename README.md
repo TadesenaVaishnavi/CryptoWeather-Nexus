@@ -32,5 +32,6 @@ s.org/learn) - an interactive Next.js tutorial.
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
 <img width="1273" alt="Screenshot 2025-04-01 at 8 21 57 PM" src="https://github.com/user-attachments/assets/bb14a501-8cac-4ea9-bf2a-e1aed5c6715a" />
+<img width="1280" alt="Screenshot 2025-04-01 at 8 22 19 PM" src="https://github.com/user-attachments/assets/1083fbf7-8fb4-4683-bbb7-f656c4652da8" />
 
 
