@@ -79,6 +79,8 @@ Public APIs – For fetching accurate weather and cryptocurrency data.
 
 ## Contribution
 
+Contributions are welcome! 🙌
+Found a bug, have a feature request, or want to contribute enhancements? Open a pull request or submit an issue – we’re excited to build CryptoWeather Nexus together with the community!
 
 
 
