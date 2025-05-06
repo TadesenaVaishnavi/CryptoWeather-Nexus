@@ -9,6 +9,12 @@ CryptoWeather Nexus is a powerful full-stack web application built using Next.js
 
 ## Key Features
 
+🔁 Multi-Page Dashboard: Cleanly separated dashboards for weather and cryptocurrency, all under one roof.
+
+📈 Real-Time Data: Get the latest weather forecasts and live crypto prices using integrated APIs and WebSockets.
+
+🌍 Geolocation-Based Weather: View current weather conditions based on your location or search for any city worldwide.
+
 First, run the development server:
 
 ```bash
