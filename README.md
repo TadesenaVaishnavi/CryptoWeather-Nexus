@@ -1,6 +1,6 @@
 
 
-## Getting Started
+## CryptoWeather Nexus - Merging Climate and Crypto Insights
 
 First, run the development server:
 
